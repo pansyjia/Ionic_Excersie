@@ -1,0 +1,7 @@
+{
+  "name": "669lab4_extra",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
